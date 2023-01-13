@@ -1,0 +1,6 @@
+0042 cat male Pushok 13.09.2015 31.12.2016
+0043 dog female Dora 29.01.2015 31.12.2016
+0006 dolphin female Dora 05.07.2019 30.10.2016
+0003 cat female Eva 03.03.2017 31.12.2016
+0007 dolphin male Eva 16.08.2016 31.12.2016
+0009 dolphin male Eva 16.09.2016 31.12.2016
